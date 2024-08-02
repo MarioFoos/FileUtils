@@ -1,4 +1,4 @@
-package com.mlf.utils;
+package com.mlf.tools;
 
 /**
  * Clase con funciones de manejo de cadenas

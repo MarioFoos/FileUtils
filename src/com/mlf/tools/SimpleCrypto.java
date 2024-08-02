@@ -1,4 +1,4 @@
-package com.mlf.utils;
+package com.mlf.tools;
 
 import java.util.Base64;
 import javax.crypto.Cipher;
